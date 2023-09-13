@@ -68,7 +68,7 @@ fn pretty_print(s: &String) {
     for (i, c) in s.chars().enumerate() {
         print!("{}", c);
         if (i + 1) % 8 == 0 {
-            println!(); // Start a new row after every 8 characters
+            println!();
         }
     }
 }

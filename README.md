@@ -5,6 +5,6 @@
 - [ ] Add benchmarks.
 - [ ] Test the performance of different `FilterType`.
 - [ ] Implement column hashes.
-- [ ] Add CLI to pass local files.
+- [x] Add CLI to pass local files.
 - [ ] Add CLI for pretty printing the hash bits.
 - [ ] Allow passing in array bytes and base64 encoded images.
